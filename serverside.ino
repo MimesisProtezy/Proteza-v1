@@ -9,7 +9,6 @@
   copies or substantial portions of the Software.
 */
 
-// Import required libraries
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
 
@@ -19,26 +18,35 @@
 const char* ssid = "ESP32-Access-Point";
 const char* password = "put-your-pswd-here";
 
-/*#include <SPI.h>
-#define BME_SCK 18
-#define BME_MISO 19
-#define BME_MOSI 23
-#define BME_CS 5*/
+itn emg1val, emg2val, emg3val;
 
-// Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
 
-String readEMG1() {
-  return String(analogRead(34));
-  //return String(1.8 * bme.readTemperature() + 32);
+String readEMG1() 
+{
+  emg1val = 0;
+  for(int i = 0; i <= 20; i++)
+    emg1val += analogRead(34);
+  emg1val /= 20;
+  return String(emg1val);
 }
 
-String readEMG2() {
-  return String(analogRead(35));
+String readEMG2() 
+{
+  emg2val = 0;
+  for(int i = 0; i <= 20; i++)
+    emg2val += analogRead(35);
+  emg2val /= 20;
+  return String(emg2val);
 }
 
-String readEMG3()  {
-  return String(analogRead(32));
+String readEMG3()  
+{
+  emg3val = 0;
+  for(int i = 0; i <= 20; i++)
+    emg3val += analogRead(32);
+  emg3val /= 20;
+  return String(emg3val);
 }
 
 void setup(){
