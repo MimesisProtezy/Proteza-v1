@@ -18,34 +18,34 @@
 const char* ssid = "ESP32-Access-Point";
 const char* password = "put-your-pswd-here";
 
-itn emg1val, emg2val, emg3val;
+int emg1val, emg2val, emg3val;
 
 AsyncWebServer server(80);
 
 String readEMG1() 
 {
   emg1val = 0;
-  for(int i = 0; i <= 20; i++)
+  for(int i = 0; i <= 50; i++)
     emg1val += analogRead(34);
-  emg1val /= 20;
+  emg1val /= 50;
   return String(emg1val);
 }
 
 String readEMG2() 
 {
   emg2val = 0;
-  for(int i = 0; i <= 20; i++)
+  for(int i = 0; i <= 50; i++)
     emg2val += analogRead(35);
-  emg2val /= 20;
+  emg2val /= 50;
   return String(emg2val);
 }
 
 String readEMG3()  
 {
   emg3val = 0;
-  for(int i = 0; i <= 20; i++)
+  for(int i = 0; i <= 50; i++)
     emg3val += analogRead(32);
-  emg3val /= 20;
+  emg3val /= 50;
   return String(emg3val);
 }
 
