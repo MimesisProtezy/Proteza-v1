@@ -43,7 +43,11 @@ W pierwszym prototypie zdecydowaliśmy się na podzielenie projektu na dwie czę
 
 #### Pliki 3D do wydruku 🖨️
 
-WIP
+* [Dłoń](https://github.com/MimesisProtezy/Proteza-v1/tree/master/STLs/D%C5%82o%C5%84) - folder ze wszystkimi plikami potrzebnymi do wydrukowania dłoni protezy (można je pobrać także ze strony inmoov.fr)
+* [Przedramię](https://github.com/MimesisProtezy/Proteza-v1/tree/master/STLs/Przedrami%C4%99) - folder z częściami przedramienia
+* [Obudowa na baterie](https://github.com/MimesisProtezy/Proteza-v1/tree/master/STLs/Battery%20holder) - obudowa służąca do przymocowania baterii wewnątrz przedramienia
+* [Obudowa na serwa](https://github.com/MimesisProtezy/Proteza-v1/tree/master/STLs/Servo%20holder) - obudowa służaca do przymocowania serw wewnątrz przedramienia
+* [Nadgarstek](https://github.com/MimesisProtezy/Proteza-v1/blob/master/STLs/Wrist.stl) - umożliwia połączenie dłoni z przedramieniem
 
 # Wykonanie
 
