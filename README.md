@@ -56,6 +56,12 @@ Model dłoni został zbudowany w oparciu o projekt [InMoov](http://inmoov.fr/) d
 
 #### Przedramię
 
+Proces składania przedramienia należy rozpocząć od wydrukowania wszystkich niezbędnych części ([Przedramię](https://github.com/MimesisProtezy/Proteza-v1/tree/master/STLs/Przedrami%C4%99), [Obudowa na baterie](https://github.com/MimesisProtezy/Proteza-v1/tree/master/STLs/Battery%20holder), [Obudowa na serwa](https://github.com/MimesisProtezy/Proteza-v1/tree/master/STLs/Servo%20holder), [Nadgarstek](https://github.com/MimesisProtezy/Proteza-v1/blob/master/STLs/Wrist.stl)). Niektóre części, takie jak przedramię oraz obudowa na serwa będą wymagały drukowania z supportami, które po wydrukowaniu należy usunąć.
+
+Kolejnym krokiem jest połączenie części obudowy na serwa w sposób przedstawiony na zdjęciu poniżej. Do złączenia części można użyć kleju szybkoschnącego takiego jak kropelka albo żywicy 5-minutowej.
+
+<img src="https://i.imgur.com/VnTXLiS.png" width="40%">
+
 WIP
 
 #### Schemat elektroniki w przedramieniu
