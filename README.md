@@ -1,4 +1,7 @@
 # Proteza-v1 🦾
+
+<img src="https://i.imgur.com/YyTsZdl.jpg" width="70%">
+
 To jest repozytorium ze wszystkimi plikami niezbędnymi do wykonania protezy bionicznej, która powstała w ramach olimpiady Zwolnieni z Teorii.
 
 ## Wstęp
