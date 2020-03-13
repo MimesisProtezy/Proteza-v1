@@ -48,6 +48,7 @@ W pierwszym prototypie zdecydowaliśmy się na podzielenie projektu na dwie czę
 * [Obudowa na baterie](https://github.com/MimesisProtezy/Proteza-v1/tree/master/STLs/Battery%20holder) - obudowa służąca do przymocowania baterii wewnątrz przedramienia
 * [Obudowa na serwa](https://github.com/MimesisProtezy/Proteza-v1/tree/master/STLs/Servo%20holder) - obudowa służaca do przymocowania serw wewnątrz przedramienia
 * [Nadgarstek](https://github.com/MimesisProtezy/Proteza-v1/blob/master/STLs/Wrist.stl) - umożliwia połączenie dłoni z przedramieniem
+* [Nakładka na serwo](https://github.com/MimesisProtezy/Proteza-v1/blob/master/STLs/Servo%20pulley.stl) x4 - do tej częsci przywiązywane będą żyłki odpowiedzialne za ruch palców
 
 # Wykonanie
 
@@ -61,6 +62,22 @@ Proces składania przedramienia należy rozpocząć od wydrukowania wszystkich n
 Kolejnym krokiem jest połączenie części obudowy na serwa w sposób przedstawiony na zdjęciu poniżej. Do złączenia części można użyć kleju szybkoschnącego takiego jak kropelka albo żywicy 5-minutowej.
 
 <img src="https://i.imgur.com/VnTXLiS.png" width="40%">
+
+Następnie na zębatki w serwach należy nałożyć [nakładki](https://github.com/MimesisProtezy/Proteza-v1/blob/master/STLs/Servo%20pulley.stl) i dokręcić je dołączonymi do serw śrubkami. Później wszystkie serwa przykręcamy do wydrukowanej i sklejonej wcześniej obudowy w sposób przedstawiony poniżej. Należy do tego użyć przyciętych do odpowiedniej długości 2.5 milimetrowych wkrętów. Złącza wychodzące z serw należy przeprowadzić przez odpowiednie otwory w obudowie.
+
+<img src="https://i.imgur.com/Id26Rsu.png" width="40%">
+
+Kolejnym krokiem jest przykręcenie obudowy na serwa wraz z zamontowanymi serwami w obudowie przedramienia. Należy użyć do tego pięciu 2.5 milimetrowych wkrętów.
+
+<img src="https://i.imgur.com/qxjEH11.png" width="40%">
+
+W tym momencie można przejść do złożenia obudowy na akumulatory. Pliki części obudowy na akumulatory zostały ponumerowane od góry do dołu, aby ułatwić złożenie. Poszczególne części należy połączyć wkrętami, wkręcając je przez wystające otwory montażowe. Oprócz tego części 1 i 2, 3 i 4, 5 i 6 należy skleić klejem szybkoschnącym.
+
+<img src="https://i.imgur.com/xywRO7s.png" width="40%">
+
+Po umieszczeniu akumulatorów w obudowie należy zlutować je równolegle. W tym momencie warto jest też przylutować powerboost'a do równolegle połączonych akumulatorów, mając na uwadze długość przewodów niezbędną do połączenia powerboost'a z akumulatorami, gdy będą już umieszczone w obudowie. Przed umieszczeniem akumulatorów w obudowie przedramienia należy przykręcić dwa [złącza USB typu C](https://botland.com.pl/pl/akcesoria-do-plytek-stykowych/12658-pololu-usb-20-typ-c-zlacze-do-plytki-stykowej.html) w sposób pokazany na zdjęciu poniżej. Nad złączami USB przykręcamy powerboost'a za pomocą jednego wkręta.
+
+<img src="" width="40%">
 
 WIP
 
