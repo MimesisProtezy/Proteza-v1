@@ -78,7 +78,7 @@ W tym momencie można przejść do złożenia obudowy na akumulatory. Pliki czę
 
 Po umieszczeniu akumulatorów w obudowie należy zlutować je równolegle. W tym momencie warto jest też przylutować powerboost'a do równolegle połączonych akumulatorów, mając na uwadze długość przewodów niezbędną do połączenia powerboost'a z akumulatorami, gdy będą już umieszczone w obudowie. Przed umieszczeniem akumulatorów w obudowie przedramienia należy przykręcić dwa [złącza USB typu C](https://botland.com.pl/pl/akcesoria-do-plytek-stykowych/12658-pololu-usb-20-typ-c-zlacze-do-plytki-stykowej.html) w sposób pokazany na zdjęciu poniżej. Nad złączami USB przykręcamy powerboost'a za pomocą jednego wkręta.
 
-<img src="" width="40%">
+<img src="https://i.imgur.com/glh0Nix.png" width="40%">
 
 WIP
 
