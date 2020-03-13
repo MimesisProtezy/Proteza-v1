@@ -13,7 +13,7 @@ W pierwszym prototypie zdecydowaliśmy się na podzielenie projektu na dwie czę
 
 #### Narzędzia niezbędne do wykonania protezy ⚒️
 
-* wkręty 2,5mm (często trzba je przyciąć do pożądanej długości)
+* wkręty 2,5mm (często trzeba je przyciąć do pożądanej długości)
 * śrubki 3mm
 * nakrętki 3mm
 * śrubokręt albo wkrętarka
@@ -21,10 +21,11 @@ W pierwszym prototypie zdecydowaliśmy się na podzielenie projektu na dwie czę
 * klej błyskawiczny np. kropelka (lub aceton w przypadku wydruku z ABS)
 * żyłka wędkarska (najlepiej nie nylonowe, ponieważ ulegają one rozciągnięciu)
 * lutownica
+* drukarka 3D (my drukowaliśmy na Enderze 3)
 
 #### Komponenty elektroniczne protezy 🦾
 
-* [ESP32](https://botland.com.pl/pl/moduly-wifi/8893-esp32-wifi-bt-42-platforma-z-modulem-esp-wroom-32-zgodny-z-esp32-devkit.html)
+* [ESP32](https://botland.com.pl/pl/moduly-wifi/8893-esp32-wifi-bt-42-platforma-z-modulem-esp-wroom-32-zgodny-z-esp32-devkit.html) x2
 * [Sensor emg](https://botland.com.pl/pl/czujniki-medyczne/5978-myoware-muscle-sensor-czujnik-do-pomiaru-aktywnosci-miesni-emg-869249000109.html) x3 - odczyt sygnałów elektrycznych z mięśni
 * [Elektrody biomedyczne](https://botland.com.pl/pl/czujniki-medyczne/2604-elektrody-biomedyczne-10szt.html) x 2 (lub więcej) opakowań
 * [Przewody do elektrod](https://botland.com.pl/pl/czujniki-medyczne/2605-przewody-do-elektrod-biomedycznych.html)
