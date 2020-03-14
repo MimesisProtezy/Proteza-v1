@@ -93,3 +93,6 @@ Wszystkie elementy są połączone kablami według schematu i schowane w opasce 
 #### Schemat elektroniki w opasce
 
 <img src="https://i.imgur.com/WfGwEmi.png" width="40%">
+
+
+<meta name="google-site-verification" content="3FX93-4HcpYLGeRCWpsykGoQSzCpB7NxpIP9s7gbkUw" />
