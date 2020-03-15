@@ -1,8 +1,8 @@
 # Proteza-v1 🦾
 
 <img src="https://i.imgur.com/YyTsZdl.jpg" width="70%">
-<meta name="google-site-verification" content="7BU-_dNy4WX7rQMSjwO5azxOfN85TyO-x6rC1iT2Cm4" />
-To jest repozytorium ze wszystkimi plikami niezbędnymi do wykonania protezy bionicznej, która powstała w ramach olimpiady Zwolnieni z Teorii.
+
+To jest repozytorium ze wszystkimi plikami niezbędnymi do wykonania protezy bionicznej, która powstała w ramach olimpiady Zwolnieni z Teorii.<meta name="google-site-verification" content="7BU-_dNy4WX7rQMSjwO5azxOfN85TyO-x6rC1iT2Cm4" />
 
 ## Wstęp
 Profesjonalne protezy bioniczne dostępne na rynku potrafią kosztować dzisiątki tysięcy złotych. Postanowiliśmy zaproponować znacznie tańszą alternatywę o podobnej funkcjonalności.
