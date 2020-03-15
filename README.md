@@ -95,4 +95,4 @@ Wszystkie elementy są połączone kablami według schematu i schowane w opasce 
 <img src="https://i.imgur.com/WfGwEmi.png" width="40%">
 
 
-<meta name="google-site-verification" content="hcR4ucwOfLU6Pl-BMg01qVeacZ2pQ8uZzGpQ2l3lIzA" />
+<meta name="google-site-verification" content="7BU-_dNy4WX7rQMSjwO5azxOfN85TyO-x6rC1iT2Cm4" />
