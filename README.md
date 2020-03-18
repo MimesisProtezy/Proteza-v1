@@ -80,6 +80,14 @@ Po umieszczeniu akumulatorów w obudowie należy zlutować je równolegle. W tym
 
 <img src="https://i.imgur.com/glh0Nix.png" width="40%">
 
+Do jednego złącza USB typu C należy przylutować kabel zakończony z drugiej strony złączem USB typu A. Koniec kabla zakończony USB typu A podłączamy do portu USB w powerboost'cie. Dzięki temu jesteśmy w stanie w łatwy sposób ładować akumulatory w protezie poprzez podłączenie ładowarki zakończonej USB typu C. Przy lutowaniu kabla USB do złącza USB typu C w protezie nie jest konieczne łączenie wszystkich pinów. Wystarczy połączyć te odpowiedzialne za przesył prądu a nie danych (+5v i GND).
+
+Do drugiego złącza typu C umieszczonego w protezie lutujemy kabel zakończony z drugiej strony złączem micro USB. Podłączamy go do portu USB w esp32. Dzięki temu będziemy w stanie programować esp32 podłączając się do niego w łatwy sposób. W tym wypadku musimy przylutować piny odpowiedzialne za przesył prądu i danych (+5v, D-, D+, GND).
+
+Następnie możemy przykręcić wcześniej złożoną obudowę na akumulatory do protezy, w sposób pokazany na zdjęciu poniżej. Będą do tego potrzebne trzy wkręty. 
+
+<img src="https://i.imgur.com/C7v4YeU.png" width="40%">
+
 WIP
 
 #### Schemat elektroniki w przedramieniu
