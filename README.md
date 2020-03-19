@@ -114,7 +114,7 @@ Wszystkie elementy są połączone kablami według schematu i schowane w opasce 
 ---
 
 # Patroni medialni
-<img src="https://i.imgur.com/1ywwYhg.jpg" width="12%" hspace="20">      <img src="https://i.imgur.com/Ypk4uo5.png" width="20%" hspace="20">      <img src="https://i.imgur.com/eoWqzBg.png" width="15%" hspace="20">
+<img src="https://i.imgur.com/1ywwYhg.jpg" width="20%" hspace="20">   <img src="https://i.imgur.com/eoWqzBg.png" width="15%" hspace="20">   <img src="https://i.imgur.com/Ypk4uo5.png" width="23%" hspace="20">      
 
 ---
 
