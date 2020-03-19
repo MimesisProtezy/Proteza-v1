@@ -102,7 +102,10 @@ Wszystkie elementy są połączone kablami według schematu i schowane w opasce 
 
 <img src="https://i.imgur.com/WfGwEmi.png" width="40%">
 
-# Sponsorzy projektu
+# Projekt realizowany w ramach olimpiady
+<img src="https://zwolnienizteorii.pl/img/svg/zwzt_short.svg" width="15%">
+
+# Sponsor projektu
 <img src="https://i.imgur.com/eIJHFis.png" width="15%"> 
 
 # Patroni medialni
