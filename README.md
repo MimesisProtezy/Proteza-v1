@@ -9,8 +9,6 @@ Profesjonalne protezy bioniczne dostępne na rynku potrafią kosztować dzisiąt
 Pamiętaj, że jest to pierwsza wersja tego urządzenia i będzie ono udoskanalane.
 W pierwszym prototypie zdecydowaliśmy się na podzielenie projektu na dwie części: właściwą protezę oraz opaskę sterującą. W protezie znajdują się serwa, baterie i ESP32, które wszystkim steruje, a w opasce sensory EMG, mała bateria oraz kolejne ESP32 odpowiedzialne za pobieranie danych z sensorów i przekazywania ich do protezy.
 
----
-
 # Przygotowania
 
 #### Narzędzia niezbędne do wykonania protezy ⚒️
@@ -52,8 +50,6 @@ W pierwszym prototypie zdecydowaliśmy się na podzielenie projektu na dwie czę
 * [Obudowa na serwa](https://github.com/MimesisProtezy/Proteza-v1/tree/master/STLs/Servo%20holder) - obudowa służaca do przymocowania serw wewnątrz przedramienia
 * [Nadgarstek](https://github.com/MimesisProtezy/Proteza-v1/blob/master/STLs/Wrist.stl) - umożliwia połączenie dłoni z przedramieniem
 * [Nakładka na serwo](https://github.com/MimesisProtezy/Proteza-v1/blob/master/STLs/Servo%20pulley.stl) x4 - do tej częsci przywiązywane będą żyłki odpowiedzialne za ruch palców
-
----
 
 # Wykonanie
 
@@ -106,17 +102,11 @@ Wszystkie elementy są połączone kablami według schematu i schowane w opasce 
 
 <img src="https://i.imgur.com/WfGwEmi.png" width="40%">
 
----
-
 # Sponsorzy projektu
 <img src="https://i.imgur.com/eIJHFis.png" width="10%"> 
 
----
-
 # Patroni medialni
-<img src="https://i.imgur.com/1ywwYhg.jpg" width="20%" hspace="20">   <img src="https://i.imgur.com/eoWqzBg.png" width="15%" hspace="20">   <img src="https://i.imgur.com/Ypk4uo5.png" width="23%" hspace="20">      
-
----
+<img src="https://i.imgur.com/1ywwYhg.jpg" width="20%" hspace="20">   <img src="https://i.imgur.com/eoWqzBg.png" width="15%" hspace="20">   <img src="https://i.imgur.com/Ypk4uo5.png" width="23%" hspace="20">   
 
 # Partnerzy
 <img src="https://i.imgur.com/Eoj9aD3.png" width="8%" hspace="20">      <img src="https://i.imgur.com/V6tm11q.png" width="25%" hspace="20">      <img src="https://i.imgur.com/fIbxIPx.png" width="10%" hspace="20">      <img src="https://i.imgur.com/crWA505.png" width="20%" hspace="20">
