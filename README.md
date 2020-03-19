@@ -103,7 +103,7 @@ Wszystkie elementy są połączone kablami według schematu i schowane w opasce 
 <img src="https://i.imgur.com/WfGwEmi.png" width="40%">
 
 # Sponsorzy projektu
-<img src="https://i.imgur.com/eIJHFis.png" width="10%"> 
+<img src="https://i.imgur.com/eIJHFis.png" width="15%"> 
 
 # Patroni medialni
 <img src="https://i.imgur.com/1ywwYhg.jpg" width="20%" hspace="20">   <img src="https://i.imgur.com/eoWqzBg.png" width="15%" hspace="20">   <img src="https://i.imgur.com/Ypk4uo5.png" width="23%" hspace="20">   
