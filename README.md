@@ -112,6 +112,6 @@ Wszystkie elementy są połączone kablami według schematu i schowane w opasce 
 <img src="https://i.imgur.com/1ywwYhg.jpg" width="20%" hspace="20">   <img src="https://i.imgur.com/eoWqzBg.png" width="15%" hspace="20">   <img src="https://i.imgur.com/Ypk4uo5.png" width="23%" hspace="20">   
 
 # Partnerzy
-<img src="https://i.imgur.com/Eoj9aD3.png" width="8%" hspace="20">      <img src="https://i.imgur.com/V6tm11q.png" width="25%" hspace="20">      <img src="https://i.imgur.com/fIbxIPx.png" width="10%" hspace="20">      <img src="https://i.imgur.com/crWA505.png" width="20%" hspace="20">
+<img src="https://i.imgur.com/Eoj9aD3.png" width="8%" hspace="20">      <img src="https://i.imgur.com/V6tm11q.png" width="25%" hspace="20">      <img src="https://i.imgur.com/fIbxIPx.png" width="10%" hspace="20">      <img src="https://i.imgur.com/crWA505.png" width="20%" hspace="20">      <img src="https://i.imgur.com/gbDu1EW.jpg" width="10%" hspace="20">
 
 <img src="https://i.imgur.com/jsir4he.png" width="20%" hspace="20">      <img src="https://i.imgur.com/a5qzGyo.jpg" width="20%" hspace="20">
