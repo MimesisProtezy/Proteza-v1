@@ -1,4 +1,4 @@
-/*
+  /*
   Rui Santos
   Complete project details at https://RandomNerdTutorials.com/esp32-client-server-wi-fi/
   
@@ -25,27 +25,27 @@ AsyncWebServer server(80);
 String readEMG1() 
 {
   emg1val = 0;
-  for(int i = 0; i <= 50; i++)
+  for(int i = 0; i <= 20; i++)
     emg1val += analogRead(34);
-  emg1val /= 50;
+  emg1val /= 20;
   return String(emg1val);
 }
 
 String readEMG2() 
 {
   emg2val = 0;
-  for(int i = 0; i <= 50; i++)
+  for(int i = 0; i <= 20; i++)
     emg2val += analogRead(35);
-  emg2val /= 50;
+  emg2val /= 20;
   return String(emg2val);
 }
 
 String readEMG3()  
 {
   emg3val = 0;
-  for(int i = 0; i <= 50; i++)
+  for(int i = 0; i <= 20; i++)
     emg3val += analogRead(32);
-  emg3val /= 50;
+  emg3val /= 20;
   return String(emg3val);
 }
 
@@ -78,7 +78,7 @@ void setup(){
 
   // Start server
   server.begin();
-}
+} 
  
 void loop(){
   Serial.println(String(analogRead(34)) + " " + String(analogRead(35)) + " " + String(analogRead(32)));
